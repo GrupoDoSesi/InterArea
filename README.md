@@ -12,7 +12,7 @@ Dentro das igrejas de Camaçari, o teatro, a dança e os instrumentos musicais n
 * **Ocupar a Mente:** Os ensaios de dança (coreografias) e as peças de teatro preenchem o tempo que esses adolescentes passariam ociosos na rua. Isso traz disciplina, senso de responsabilidade e ensina a trabalhar em equipe.
 * **Cuidado e Apoio:** Hoje em dia, muitos jovens sofrem com ansiedade e depressão. Os grupos de jovens da igreja acabam virando uma segunda família, um lugar onde eles se sentem ouvidos, protegidos e valorizados.
 
-> 💡 **Nota de Destaque:** A arte dentro das comunidades religiosas de Camaçari funciona como uma barreira invisível contra a violência, oferecendo microfones, instrumentos e palcos a quem muitas vezes só precisava de uma oportunidade para ser visto.
+ **Nota de Destaque:** A arte dentro das comunidades religiosas de Camaçari funciona como uma barreira invisível contra a violência, oferecendo microfones, instrumentos e palcos a quem muitas vezes só precisava de uma oportunidade para ser visto.
 
 ## 3. Da Igreja para a Rua: O Impacto nos Grandes Eventos
 Aquele ensaio que acontece escondidinho no salão da igreja durante a semana ganha as ruas de Camaçari nos grandes eventos da cidade, mostrando a força da juventude.
