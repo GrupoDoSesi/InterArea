@@ -42,24 +42,28 @@ Este relatório reúne o relato de dois jovens evangélicos de Camaçari. O obje
 ## Entrevistada 2: Foco em Dança e Grandes Retiros (Ex: São João / Carnaval)
 
 * **Nome/Iniciais:** (Insira o nome ou iniciais dela)
-* **Idade:** (Ex: 21 anos)
-* **Bairro em Camaçari:** (Ex: Gleba E, Phoc, Centro...)
-* **Igreja/Ministério:** (Ex: Igreja Quadrangular, Comunidade Evangélica...)
+* **Idade:** (Insira a idade dela aqui, ex: 18 anos)
+* **Bairro em Camaçari:** (Insira o bairro dela aqui)
+* **Igreja/Ministério:** (Insira a igreja dela aqui)
 * **Função Artística:** Integrante do Ministério de Dança / Coreografia
 
 ### Perguntas e Respostas
 
 * **Pergunta 4: Os retiros de jovens em feriados longos, como o São João, costumam ser muito marcantes. Como funcionam as coisas por lá? Como que vocês organizam as apresentações de dança, as peças de teatro e as gincanas no meio do retiro?**
-> **Resposta:** (Apague este parêntese e cole aqui a resposta dela)
+> **Resposta:** "Sim, todos os retiros são muito marcantes, não apenas pelas resenhas e pelos momentos de diversão, mas também pelos cultos, pelas palavras ministradas e pelos ensinamentos. As gincanas são organizadas por equipes: nós escolhemos o nome do grupo e participamos de diversas brincadeiras durante os dias em que permanecemos no retiro. Com isso, os pontos são somados até a contagem final para definir a equipe vencedora. Já as danças e peças costumam acontecer durante os cultos, sendo realizadas por pessoas específicas da igreja."
 
 * **Pergunta 5: Além dos ensaios, como funciona a convivência entre os jovens durante esses dias de retiro? Como que as gincanas e os momentos de lazer ajudam vocês a criarem novas amizades e trabalharem em equipe?**
-> **Resposta:** (Apague este parêntese e cole aqui a resposta dela)
+> **Resposta:** "A convivência é incrível, pois, mesmo existindo pequenos grupos de amigos que já se conhecem previamente, durante as brincadeiras, festas e conversas, no final todos acabam se reunindo e interagindo de forma geral."
 
 * **Pergunta 6: Olhando para a realidade dos jovens que crescem nos bairros de Camaçari, qual você acha que é a verdadeira importância de existirem esses grupos de arte e os retiros como uma opção de lazer seguro e de cultura para vocês?**
-> **Resposta:** (Apague este parêntese e cole aqui a resposta dela)
+> **Resposta:** "Os grupos de arte e os retiros são fundamentais porque oferecem uma opção de lazer seguro, cultura e aprendizado. Além disso, eles ajudam diretamente os jovens a se afastarem de situações de risco que existem nas periferias, incentivando o desenvolvimento de amizades saudáveis, a descoberta de talentos e uma convivência muito mais positiva."
 
 ---
 
 ## Conclusão do Trabalho de Campo
 
-*(Escreva aqui uma breve reflexão sua após ouvir os dois jovens, conectando com o que o seu colega escreveu no tópico 4 sobre o impacto social).*
+*A realização deste trabalho de campo confirmou, por meio de relatos reais, o papel transformador que as atividades artísticas e os retiros promovidos pelas igrejas evangélicas exercem na juventude de Camaçari. Os depoimentos colhidos deixam evidente que essas iniciativas vão muito além do aspecto puramente religioso.
+
+Por um lado, o aprendizado musical gratuito atua como uma ferramenta de inclusão e capacitação técnica, oferecendo aos jovens uma base sólida, o desenvolvimento de novos talentos e, acima de tudo, um propósito para ocupar o tempo livre que, de outra forma, poderia ser ocioso. Por outro lado, os retiros e os ministérios de dança e teatro surgem como uma alternativa essencial de convivência e lazer seguro. Em bairros periféricos, onde as opções de cultura e entretenimento de qualidade costumam ser escassas, essas programações integram a juventude, fortalecem o trabalho em equipe e oferecem um ambiente de proteção social contra situações de vulnerabilidade.
+
+Em suma, a arte evangélica nas periferias de Camaçari funciona como um poderoso agente de transformação social, combinando fé, cultura e cidadania para construir trajetórias mais saudáveis e promissoras para os jovens locais.*
