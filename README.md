@@ -41,11 +41,10 @@ Este relatório reúne o relato de dois jovens evangélicos de Camaçari. O obje
 
 ## Entrevistada 2: Foco em Dança e Grandes Retiros (Ex: São João / Carnaval)
 
-* **Nome/Iniciais:** (Insira o nome ou iniciais dela)
-* **Idade:** (Insira a idade dela aqui, ex: 18 anos)
-* **Bairro em Camaçari:** (Insira o bairro dela aqui)
-* **Igreja/Ministério:** (Insira a igreja dela aqui)
-* **Função Artística:** Integrante do Ministério de Dança / Coreografia
+* **Nome/Iniciais:** (Yasmin)
+* **Idade:** (16 anos)
+* **Bairro em Camaçari:** (Bairro Novo)
+* **Igreja/Ministério:** (Quadrangular 2 de Julho)
 
 ### Perguntas e Respostas
 
@@ -62,8 +61,8 @@ Este relatório reúne o relato de dois jovens evangélicos de Camaçari. O obje
 
 ## Conclusão do Trabalho de Campo
 
-*A realização deste trabalho de campo confirmou, por meio de relatos reais, o papel transformador que as atividades artísticas e os retiros promovidos pelas igrejas evangélicas exercem na juventude de Camaçari. Os depoimentos colhidos deixam evidente que essas iniciativas vão muito além do aspecto puramente religioso.
+* A realização deste trabalho de campo confirmou, por meio de relatos reais, o papel transformador que as atividades artísticas e os retiros promovidos pelas igrejas evangélicas exercem na juventude de Camaçari. Os depoimentos colhidos deixam evidente que essas iniciativas vão muito além do aspecto puramente religioso.
 
 Por um lado, o aprendizado musical gratuito atua como uma ferramenta de inclusão e capacitação técnica, oferecendo aos jovens uma base sólida, o desenvolvimento de novos talentos e, acima de tudo, um propósito para ocupar o tempo livre que, de outra forma, poderia ser ocioso. Por outro lado, os retiros e os ministérios de dança e teatro surgem como uma alternativa essencial de convivência e lazer seguro. Em bairros periféricos, onde as opções de cultura e entretenimento de qualidade costumam ser escassas, essas programações integram a juventude, fortalecem o trabalho em equipe e oferecem um ambiente de proteção social contra situações de vulnerabilidade.
 
-Em suma, a arte evangélica nas periferias de Camaçari funciona como um poderoso agente de transformação social, combinando fé, cultura e cidadania para construir trajetórias mais saudáveis e promissoras para os jovens locais.*
+Em suma, a arte evangélica nas periferias de Camaçari funciona como um poderoso agente de transformação social, combinando fé, cultura e cidadania para construir trajetórias mais saudáveis e promissoras para os jovens locais.
