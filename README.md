@@ -2,6 +2,12 @@
 
 # Expressões Cênicas e Corporais nas Igrejas de Camaçari (Teatro e Dança)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Projeto-Escolar-blue?style=for-the-badge&logo=github" alt="Projeto Escolar">
+  <img src="https://img.shields.io/badge/Tema-Arte%20e%20F%C3%A9-purple?style=for-the-badge" alt="Tema">
+  <img src="https://img.shields.io/badge/Local-Cama%C3%A7ari%20--%20BA-green?style=for-the-badge" alt="Local">
+</p>
+
 As expressões cênicas e corporais, como o teatro e a dança, têm forte presença nas igrejas de Camaçari, atuando como ferramentas de evangelismo, adoração e integração social. A prática envolve desde a ministração litúrgica em cultos locais até festivais e workshops focados no aprimoramento técnico e espiritual dos grupos.
 
 ## A Dança no Contexto Religioso
